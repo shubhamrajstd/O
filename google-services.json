@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "694278549024",
+    "project_id": "katora-551f2",
+    "storage_bucket": "katora-551f2.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:694278549024:android:a6a9d6d9e5a17b22965645",
+        "android_client_info": {
+          "package_name": "com.katora.tasty"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAe0LhtBb5pMFWCzPiyuyDG6IwJIISAwXw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:694278549024:android:23277d5513747384965645",
+        "android_client_info": {
+          "package_name": "com.shubham.raj"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAe0LhtBb5pMFWCzPiyuyDG6IwJIISAwXw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
